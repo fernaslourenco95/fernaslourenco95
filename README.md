@@ -38,8 +38,8 @@ Sou Analista de Redes e Cibersegurança, apaixonado por tecnologias e resoluçã
 
 ## 📊 Estatísticas
 
-![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark)
+![Seu GitHub stats](https://github-readme-stats.vercel.app/api?username=fernaslourenco95&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernaslourenco95&layout=compact&theme=dark)
 
 ---
 
@@ -54,7 +54,7 @@ Sou Analista de Redes e Cibersegurança, apaixonado por tecnologias e resoluçã
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/seulinkedin](https://www.linkedin.com/in/fernando-louren%C3%A7o-b1a449195/)
+- **LinkedIn:** (https://www.linkedin.com/in/fernando-louren%C3%A7o-b1a449195/)
 - **E-mail:** fernas.lourenco@gmail.com
 - **Portfólio:** Brevemente...
 
