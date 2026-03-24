@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🧠 About Me
 
-<!--
-**fernaslourenco95/fernaslourenco95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔐 Focused on identifying and exploiting access control vulnerabilities (IDOR)
+- 🌐 Performing hands-on web application security testing using Burp Suite
+- ☁️ Exploring cloud misconfigurations in AWS environments
+- 🧪 Building practical labs to simulate real-world attack scenarios
 
-Here are some ideas to get you started:
+  ## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 IDOR Vulnerability Case Study
+Simulated exploitation of access control flaws by manipulating request parameters  
+→ Includes intercepted requests, unauthorized access demonstration, and mitigation analysis  
+
+### 🌐 Web Application Security Testing
+Hands-on testing methodology covering SQL Injection, XSS, and IDOR  
+→ Focused on practical exploitation using Burp Suite  
+
+### ☁️ Cloud Misconfiguration Case Study
+Analysis of insecure cloud configurations including exposed storage and IAM issues  
+→ Demonstrates risk assessment and mitigation strategies  
+
+## 🧪 Recent Activity
+
+- 🔍 Tested IDOR vulnerabilities through parameter manipulation
+- 🌐 Performed web application testing using Burp Suite
+- ☁️ Identified insecure cloud configurations in lab environments
