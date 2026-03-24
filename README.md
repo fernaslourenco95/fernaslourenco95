@@ -54,9 +54,9 @@ Sou Analista de Redes e Cibersegurança, apaixonado por tecnologias e resoluçã
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/seulinkedin]([https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/fernando-louren%C3%A7o-b1a449195/))
+- **LinkedIn:** [linkedin.com/in/seulinkedin](https://www.linkedin.com/in/fernando-louren%C3%A7o-b1a449195/)
 - **E-mail:** fernas.lourenco@gmail.com
-- **Portfólio:** [seusite.com](https://seusite.com)
+- **Portfólio:** Brevemente...
 
 ---
 
@@ -72,6 +72,6 @@ Analysis of insecure cloud configurations including exposed storage and IAM issu
 - 🌐 Performed web application testing using Burp Suite
 - ☁️ Identified insecure cloud configurations in lab environments
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=seuusuario&color=blue)
-![Seguidores](https://img.shields.io/github/followers/seuusuario?style=social)
-![Estrelas](https://img.shields.io/github/stars/seuusuario?style=social)
+![Visitas no perfil](https://komarev.com/ghpvc/?username=fernaslourenco95&color=blue)
+![Seguidores](https://img.shields.io/github/followers/fernaslourenco95?style=social)
+![Estrelas](https://img.shields.io/github/stars/fernaslourenco95?style=social)
