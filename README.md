@@ -57,7 +57,7 @@ Sou Analista de Redes e Cibersegurança, apaixonado por tecnologias e resoluçã
 - **LinkedIn:** (https://www.linkedin.com/in/fernando-louren%C3%A7o-b1a449195/)
 - **E-mail:** fernas.lourenco@gmail.com
 - **Portfólio:** Brevemente...
-
+- **Badges:** https://www.credly.com/users/fernando-lourenco.f4a21578/badges#credly
 ---
 
 ⭐️ **Se você gostou do que viu, considere deixar uma estrela nos meus projetos!** 
