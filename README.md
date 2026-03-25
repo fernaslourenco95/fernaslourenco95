@@ -10,7 +10,7 @@
 
 Sou Analista de Redes e Cibersegurança, apaixonado por tecnologias e resolução de problemas. Atualmente focado em **Pentesting e Web Application Security** e sempre em busca de novos desafios.
 
-- 🔭 Atualmente trabalhando em: **HakerOne e Other Bug Bounties Programs**
+- 🔭 Atualmente enrolado em: **HakerOne e Other Bug Bounties Programs**
 - 🌱 Testando: **Cloud, Web e AppSec**
 - 👯 Buscando colaborar em: **Projetos relacionados com Infraestruturas de Redes e Segurança | Red e Blue Team**
 - 💬 Me pergunte sobre: **Redes (Protocolos, Serviços e Arquitetura) - Security (diversos)**
