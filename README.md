@@ -10,7 +10,7 @@
 
 Sou Analista de Redes e Cibersegurança, apaixonado por tecnologias e resolução de problemas. Atualmente focado em **Pentesting e Web Application Security** e sempre em busca de novos desafios.
 
-- 🔭 Atualmente enrolado em: **HakerOne e Other Bug Bounties Programs**
+- 🔭 Atualmente enrolado em: **HakerOne, TCM Security e Others Bug Bounties Programs**
 - 🌱 Testando: **Cloud, Web e AppSec**
 - 👯 Buscando colaborar em: **Projetos relacionados com Infraestruturas de Redes e Segurança | Red e Blue Team**
 - 💬 Me pergunte sobre: **Redes (Protocolos, Serviços e Arquitetura) - Security (diversos)**
@@ -45,10 +45,10 @@ Sou Analista de Redes e Cibersegurança, apaixonado por tecnologias e resoluçã
 
 ## 🚀 Objetivos para 2026
 
-- [ ] Concluir certificação CCNA e Começar CCNP
+- [ ] Concluir certificação CCNA e rumar para - **CCNP - PNPT - Pentest+ - OSCP** 
 - [ ] Contribuir para 3 projetos open-source
-- [ ] Publicar artigo técnico sobre 'Desafios das Certificações Padrão da Indústria'
-- [ ] Construir projeto portfólio com 'Burp Suite & Metasploit'
+- [ ] Publicar artigo técnico sobre - **Os Desafios das Certificações Padrão da Indústria**
+- [ ] Construir projeto portfólio com - **Web Application Architecture, OWASP Top 10, Burp Suite e Metasploit**
 
 ---
 
