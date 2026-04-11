@@ -8,13 +8,13 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou Analista de Redes e Cibersegurança, apaixonado por tecnologias e resolução de problemas. Atualmente focado em **Pentesting e Web Application Security** e sempre em busca de novos desafios.
+Sou Analista Jr. de Redes e Cibersegurança, apaixonado por tecnologias e resolução de problemas. Atualmente focado em **Networking, Pentesting e Web Application Security** e sempre em busca de novos desafios.
 
-- 🔭 Atualmente enrolado em: **HakerOne, TCM Security e Others Bug Bounties Programs**
+- 🔭 Atualmente enrolado em: **BugCrowd, TCM Security e Others Bug Bounties Programs**
 - 🌱 Testando: **Cloud, Web e AppSec**
 - 👯 Buscando colaborar em: **Projetos relacionados com Infraestruturas de Redes e Segurança | Red e Blue Team**
 - 💬 Me pergunte sobre: **Redes (Protocolos, Serviços e Arquitetura) - Security (diversos)**
-- ⚡ Curiosidade: **Quando encontro algo que me interessa, busco me aprimorar mais e mais...**
+- ⚡ Curiosidade: **Quando encontro algo que me interessa, busco conhecer mais para me aprimorar todos os dias...**
 
 ---
 
@@ -48,7 +48,7 @@ Sou Analista de Redes e Cibersegurança, apaixonado por tecnologias e resoluçã
 - [ ] Concluir certificação CCNA e rumar para - **CCNP - PNPT - Pentest+ - OSCP** 
 - [ ] Contribuir para 3 projetos open-source
 - [ ] Publicar artigo técnico sobre - **Os Desafios das Certificações Padrão da Indústria**
-- [ ] Construir projeto portfólio com - **Web Application Architecture, OWASP Top 10, Burp Suite e Metasploit**
+- [ ] Construir projeto portfólio com - **Networking and Web Application Architecture, OWASP Top 10, Burp Suite e Metasploit**
 
 ---
 
@@ -57,7 +57,6 @@ Sou Analista de Redes e Cibersegurança, apaixonado por tecnologias e resoluçã
 - **LinkedIn:** (https://www.linkedin.com/in/fernando-louren%C3%A7o-b1a449195/)
 - **E-mail:** fernas.lourenco@gmail.com
 - **Portfólio:** Brevemente...
-- **Badges:** https://www.credly.com/users/fernando-lourenco.f4a21578/badges#credly
 ---
 
 ⭐️ **Se você gostou do que viu, considere deixar uma estrela nos meus projetos!** 
@@ -68,7 +67,8 @@ Analysis of insecure cloud configurations including exposed storage and IAM issu
 
 ## 🧪 Recent Activity
 
-- 🔍 Tested IDOR vulnerabilities through parameter manipulation
+- 🔍 Tested IDOR vulnerabilities through parameter manipulation - severals web-apps/APIs
+- 🔍 Reported a RFI vulnerability on CLIENT web-app/v1 - BugCrowd (A Bug bounty program) 
 - 🌐 Performed web application testing using Burp Suite
 - ☁️ Identified insecure cloud configurations in lab environments
 
